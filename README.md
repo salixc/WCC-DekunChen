@@ -2,6 +2,8 @@
 
 CSC3160 Final Project - Dekun Chen - 120090336
 
+This is a copy version from the original one, since the regulation of the SLP course.
+
 ## Abstract
 
 ChatGPT detector is considered as a necessary task to regulate the use of ChatGPT. And the difficulty in interpreting the detecting process and results is a common problem of LLM. Most of the existing interpreters concentrated on attention visualization but took little account of classification process. In this work, we propose a method to display word contribution to the model prediction. Specifically, the information from classification weight vectors, semantic vector, and embedded input word vector is considered in our work for a more comprehensive explanation of detector LLM. Three word-level properties (word length, part of speech, word semantic) are used to validate our method by comparing with conclusions of existing works.
