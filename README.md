@@ -1,6 +1,6 @@
 # Word-Level Interpretation of ChatGPT Detector Based on Classification Contribution
 
-CSC3160 Final Project - Dekun Chen - 120090336
+SLP Course Final Project - Dekun Chen - 120090336
 
 This is a copy version from the original one, since the regulation of the SLP course.
 
